@@ -10,6 +10,6 @@ The generator creates a basic plugin structure replacing the files and directori
 
 1. Clone the project
 2. Execute 'yarn'
-3. Generate a plugin: 'yarn run yo test'
-3.1 Introduce the name of the plugin
-4. A new folder 'dist/{pluginName}' will be generated
+3. Execute yeoman generator: `yarn run yo test`
+4. Introduce the name of the plugin in the command line
+5. A new folder 'dist/{pluginName}' will be generated
