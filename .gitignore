@@ -1,0 +1,5 @@
+node_modules
+.idea
+.vscode
+.scannerwork
+.DS_Store
