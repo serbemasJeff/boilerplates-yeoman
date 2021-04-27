@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a test for the Yeoman generator.
+This is a test of the Yeoman generator.
 
 The generator creates a basic plugin structure replacing the files and directories name.
 
